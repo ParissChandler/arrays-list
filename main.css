@@ -1,0 +1,29 @@
+body{
+  background: url(http://theautismchannel.tv/images/children-clr.png);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: auto;
+  opacity: 0.9;
+}
+section{
+  border: 1px solid clear;
+  border-radius: 10px;
+  height: 500px;
+  width: 40%;
+  background-color: #42f4d1;
+  margin-left: 407px;
+  margin-top: 40px;
+}
+#nameInput{
+  border: 1px solid black;
+  height: 30px;
+  width: 40%;
+  margin-left: 157px;
+  margin-top: 20px;
+}
+#btnAdd,#btnAttendance{
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 130px;
+}
